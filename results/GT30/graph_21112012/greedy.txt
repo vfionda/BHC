@@ -1,0 +1,105 @@
+community 0 [0, 3, 7, 16, 22]
+-------------------
+community 1 [1, 2, 18, 19, 25, 26, 27, 28, 29]
+-------------------
+community 2 [4, 6, 13, 17]
+-------------------
+community 3 [5, 9, 10, 11, 24]
+-------------------
+community 4 [8, 12, 14, 15, 20, 21, 23]
+-------------------
+community 0 [0, 3, 7, 16, 22] initial dec score 0.2222222222222222
+--> budget 1 best dec score 0.2727272727272727 best min dec score 0.2727272727272727
+		 bestDelsI= [[3, 7]]
+		 bestAddsI= []
+		 bestAddsE= []
+		 bestDelsE= []
+
+--> budget 2 best dec score 0.6458333333333333 best min dec score 0.6458333333333333
+		 bestDelsI= []
+		 bestAddsI= []
+		 bestAddsE= [[0, 8], [7, 13]]
+		 bestDelsE= []
+
+--> budget 3 best dec score 0.7927083333333333 best min dec score 0.7927083333333333
+		 bestDelsI= []
+		 bestAddsI= []
+		 bestAddsE= [[0, 13], [7, 8], [22, 5]]
+		 bestDelsE= []
+
+community 1 [1, 2, 18, 19, 25, 26, 27, 28, 29] initial dec score 0.58125
+--> budget 1 best dec score 0.7357954545454546 best min dec score 0.7357954545454546
+		 bestDelsI= [[18, 29]]
+		 bestAddsI= []
+		 bestAddsE= []
+		 bestDelsE= []
+
+--> budget 2 best dec score 0.75 best min dec score 0.75
+		 bestDelsI= []
+		 bestAddsI= []
+		 bestAddsE= [[1, 12], [18, 0]]
+		 bestDelsE= []
+
+--> budget 3 best dec score 0.7625 best min dec score 0.7625
+		 bestDelsI= [[2, 29]]
+		 bestAddsI= [[1, 29]]
+		 bestAddsE= [[18, 0]]
+		 bestDelsE= []
+
+community 2 [4, 6, 13, 17] initial dec score 0.3847222222222222
+--> budget 1 best dec score 0.6456228956228955 best min dec score 0.6456228956228955
+		 bestDelsI= []
+		 bestAddsI= []
+		 bestAddsE= [[13, 8]]
+		 bestDelsE= []
+
+--> budget 2 best dec score 0.6807539682539683 best min dec score 0.6807539682539683
+		 bestDelsI= [[6, 13]]
+		 bestAddsI= []
+		 bestAddsE= [[13, 5]]
+		 bestDelsE= []
+
+--> budget 3 best dec score 0.8043650793650794 best min dec score 0.8043650793650794
+		 bestDelsI= [[6, 13]]
+		 bestAddsI= []
+		 bestAddsE= [[13, 5], [17, 23]]
+		 bestDelsE= []
+
+community 3 [5, 9, 10, 11, 24] initial dec score 0.08333333333333331
+--> budget 1 best dec score 0.14285714285714285 best min dec score 0.14285714285714285
+		 bestDelsI= []
+		 bestAddsI= []
+		 bestAddsE= [[5, 26]]
+		 bestDelsE= []
+
+--> budget 2 best dec score 0.4826388888888889 best min dec score 0.4826388888888889
+		 bestDelsI= [[5, 9], [9, 11]]
+		 bestAddsI= []
+		 bestAddsE= []
+		 bestDelsE= []
+
+--> budget 3 best dec score 0.6333333333333333 best min dec score 0.6333333333333333
+		 bestDelsI= [[5, 24]]
+		 bestAddsI= []
+		 bestAddsE= [[9, 23], [11, 23]]
+		 bestDelsE= []
+
+community 4 [8, 12, 14, 15, 20, 21, 23] initial dec score 0.0
+--> budget 1 best dec score 0.4708333333333334 best min dec score 0.4708333333333334
+		 bestDelsI= []
+		 bestAddsI= []
+		 bestAddsE= [[23, 7]]
+		 bestDelsE= []
+
+--> budget 2 best dec score 0.7571428571428571 best min dec score 0.7571428571428571
+		 bestDelsI= []
+		 bestAddsI= []
+		 bestAddsE= [[8, 2], [12, 4]]
+		 bestDelsE= []
+
+--> budget 3 best dec score 0.7839285714285715 best min dec score 0.7839285714285715
+		 bestDelsI= [[8, 23]]
+		 bestAddsI= []
+		 bestAddsE= [[12, 13], [15, 16]]
+		 bestDelsE= []
+
