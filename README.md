@@ -1,2 +1,2 @@
 # BHC
-Better Hide Communities: the Ultimate Benchmark for Community Deception
+Better Hide Communities: Benchmarking Community Deception Algorithms
